@@ -1,4 +1,6 @@
 def count_elements(array)
-  # code goes here
+  count_hash = Hash.new
+  array.each do |ele|
+  end 
 end
  
